@@ -8,6 +8,6 @@
 
 🌱 I’m looking for full-time work as an individual contributor.
 
-🔭 I’m currently working converting a python script to a fullstack project which ingests images and creates crafting grids. [Read more here.](https://justineschott.github.io/latch_hook.html)
+🔭 I’m currently working on converting a python script to a fullstack project which ingests images and creates crafting grids. [Read more here.](https://justineschott.github.io/latch_hook.html)
 
 ⚡ Fun fact: I'm a volunteer at [Muttville Senior Dog Rescue](https://muttville.org/)!
