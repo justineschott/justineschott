@@ -10,4 +10,4 @@
 
 🔭 I’m currently working on converting a python script to a fullstack project which ingests images and creates crafting grids. [Read more here.](https://justineschott.github.io/latch_hook.html)
 
-⚡ I'm a volunteer with the [Crisis Text Line](https://www.crisistextline.org/).
+⚡ I'm a volunteer with the [Crisis Text Line](https://www.crisistextline.org/) and [Muttville Senior Dog Rescue](https://muttville.org/).
